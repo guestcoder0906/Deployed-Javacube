@@ -1,0 +1,5 @@
+{
+  "name": "Javacube Seed Finder",
+  "description": "An iframe wrapper for the Javacube Minecraft Seed Finder Hugging Face space, hiding the top UI.",
+  "requestFramePermissions": []
+}
